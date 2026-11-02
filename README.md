@@ -6,7 +6,7 @@ RescueOps evaluates emergency crisis scenarios under severe physical and operati
 
 ---
 
-## Team
+## Team Members
 
 - Akash
 - Gokul
